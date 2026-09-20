@@ -1,0 +1,66 @@
+By default everything in next.js is a Server Side Component -> 
+
+Client Side Components -> 
+
+
+
+
+1. Chunking of bundles 
+2. CSR and SSR 
+3. Only client components contribute to bundle size 
+4. If bundle size is small you have less content to download so can be one of the factors to contribute to the speed of a webpage
+
+
+Goal -> 
+    As a developer our goal is to have a maximum amount of server component keeping the architecture clear and still able to manage to get a bud freee and 
+    all feautre rich implementation 
+
+CSR vs SSR vs SSC
+
+
+
+Backend -> 
+    Before displaying the page itslef we are able to get the data and display.
+
+    Previously -> 
+        React -> page renders then we call the api -> and then we update
+
+    Introducing API making -> 
+        Backend part -> 
+
+    APi calling  is running our api on the server itself instead of doing that over the client which saves
+    us the network delay 
+
+Git -> 
+    
+
+    Server Actions ->
+    Server Components -> power explore -> 
+
+    Neon -> 
+    npx neon@latest init
+
+
+    1024
+    1,050,000
+
+
+    - Suspense boundary 
+    - middleware 
+    - shadcn 
+
+    Express js -> 
+
+
+
+
+
+    Prefetching 
+    server and client boundary
+    caching -> 2 types -> data caching and route caching 
+
+    "use cache"
+
+
+GIT -> 
+    
