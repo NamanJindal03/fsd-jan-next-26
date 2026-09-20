@@ -7,6 +7,6 @@ export default async function Page(){
     //     console.log('just adding')
     // },[])
     return (
-        <h1> I am on blog page</h1>
+        <h1> I am on blog page in the page</h1>
     )
 }

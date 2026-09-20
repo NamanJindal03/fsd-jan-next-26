@@ -18,3 +18,6 @@ INFO:     127.0.0.1:62785 - "GET /health HTTP/1.1" 200 OK
 [stderr] 2026-09-20 10:12:15 INFO     [codeboarding_pro.session:202] Session 5fc6656c-8ee2-4049-b205-d9e170c8687a: FileMonitor activated
 [stderr] 2026-09-20 10:12:15 INFO     [codeboarding_pro.session:243] Session 5fc6656c-8ee2-4049-b205-d9e170c8687a: LSP wiring complete
 [stderr] 2026-09-20 10:12:15 INFO     [codeboarding_pro.lsp.bootstrap:67] LSP clients started successfully (attempt 1)
+[stderr] 2026-09-20 10:18:39 INFO     [watchfiles.main:308] 1 change detected
+[stderr] 2026-09-20 10:18:40 WARNING  [codeboarding_pro.analysis_controller:427] Skipping incremental update: full analysis artifacts not ready yet
+[stderr] 2026-09-20 10:18:40 INFO     [codeboarding_pro.analysis_controller:259] No cached analysis results; skipping health report
